@@ -1,11 +1,11 @@
 # slmsuite examples
 <p align="center">
-<a href="https://mybinder.org/v2/gh/QPG-MIT/slmsuite-examples/main?labpath=examples"><image alt="Binder" src="https://mybinder.org/badge_logo.svg"></a>
+<a href="https://nbviewer.org/github/QPG-MIT/slmsuite-examples/tree/main/examples/"><image alt="nbviewer" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg"></a>
 </a>
 
 Examples for the [slmsuite](https://github.com/QPG-MIT/slmsuite) package.
 
-View online: [https://mybinder.org/v2/gh/QPG-MIT/slmsuite-examples/main?labpath=example](https://mybinder.org/v2/gh/QPG-MIT/slmsuite-examples/main?labpath=example).
+View online: [https://nbviewer.org/github/QPG-MIT/slmsuite-examples/tree/main/examples/](https://nbviewer.org/github/QPG-MIT/slmsuite-examples/tree/main/examples/)
 
 ## Links
 - [slmsuite documentation](https://slmsuite.readthedocs.io/en/latest)
