@@ -39,3 +39,5 @@
 
 # allow setup diagram
 !*setup_diagram.png
+.DS_Store
+!examples/dynamic/*
